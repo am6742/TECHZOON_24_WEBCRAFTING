@@ -1,0 +1,26 @@
+.b{
+    display: flex;
+    justify-content: center;
+    margin-top:3%;
+    font-size: 60px;
+    color:black;
+    font-family: italic;
+    margin-top:5%;
+
+}
+
+.background{
+    background-color:white;
+    background-image: url();
+    display: flex;
+    justify-content: left;
+  
+}
+.p{
+    font-size: 24px;
+    color:black;
+    font-family: italic;
+    margin-top:10%;
+}
+
+

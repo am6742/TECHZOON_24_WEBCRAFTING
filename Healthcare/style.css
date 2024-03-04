@@ -1,0 +1,33 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+b{
+    font-size: 56px;
+    font-family: italic;
+    color:rgba(31, 96, 147, 0.8);
+}
+
+.nav-link:hover{
+    
+    border-bottom: 2px solid rgba(31, 96, 147, 0.8);
+    transition: .1s;
+    color:rgba(31, 96, 147, 0.8);
+}
+.img-fluid{
+    margin-top: 6%;
+    margin-left:7%;
+}
+.one{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color:rgba(31, 96, 147, 0.8);
+    font-family: italic;
+}
+.pg{
+    display:flex ;
+    text-align: center;
+    justify-content: center;
+}

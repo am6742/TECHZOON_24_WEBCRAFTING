@@ -1,0 +1,20 @@
+.container{
+    flex-direction: column;
+    display:flex;
+    text-align: center;
+    justify-content: center;
+}
+.lid{
+    margin-top: 20%;
+}
+.lstname{
+    margin-top: 20px;
+    
+}
+.lstname1{
+    margin-top: 20px;
+}
+button{
+     color:blue;
+     margin: 12px;
+}
